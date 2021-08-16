@@ -2,7 +2,7 @@
 
 # About the File
 Sales data for two Australia wide fashion stores; Fashions Direct and Next Look.
-This is the Project about to analyzing a dataset completely. For this project I have selected a dataset about fashions sales so we can perform different type of operation and formulas thereby making various types of visual representations, so it becomes easy to analyze.
+This project is about analyzing a dataset completely. For this project I have selected a dataset of fashions sales so that we can perform different type of operation and formulas thereby making various types of visual representations, so it becomes easy to analyze.
 
 Techniques Used
 * concepts of ﬁlters, Slicers, Pivot Tables and Pivot Charts.
